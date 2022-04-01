@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/../kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
-  (lib (name "42Keebs")(type "KiCad")(uri "${KIPRJMOD}/../symbols/42Keebs.kicad_sym")(options "")(descr ""))
+  (lib (name "42Keebs")(type "KiCad")(uri "${KIPRJMOD}/../42keebs-kicad/symbols/42Keebs.kicad_sym")(options "")(descr ""))
 )
