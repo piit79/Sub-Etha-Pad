@@ -6594,7 +6594,7 @@
   (gr_text "Vcc" (at 143.891 67.564 270) (layer "B.SilkS") (tstamp 96ec64e7-b1f6-467e-abfe-59f52f73d590)
     (effects (font (size 1 0.8) (thickness 0.2)) (justify left mirror))
   )
-  (gr_text "Sub-Etha Pad M Rev0.98\npiit79 / 42keebs.eu 2022" (at 176.6316 140.5128) (layer "B.SilkS") (tstamp d43cd1fa-dbe0-496a-985d-f344fb287fed)
+  (gr_text "Sub-Etha Pad M v1.0\npiit79 / 42keebs.eu 2022" (at 176.6316 140.5128) (layer "B.SilkS") (tstamp d43cd1fa-dbe0-496a-985d-f344fb287fed)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left mirror))
   )
   (gr_text "B" (at 158.115 67.183 270) (layer "B.SilkS") (tstamp ec19e519-279b-4d08-8288-be58fe8a8d44)
